@@ -39,4 +39,4 @@ Compare: The input histogram is compared against the pre-calculated histograms o
 
 Determine Match: The Bhattacharyya distance is computed for each comparison. The category that yields the minimum distance (highest similarity) is selected as the predicted disease
 
-Questions? Hit the issues tab or just tweak the code—it's yours now. Happy billing! 🤑
+
