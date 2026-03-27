@@ -1,7 +1,7 @@
 # Fundamentals-of-AI-and-ML
 Billing Item CRUD Application – Python
 # Vityarthi-Project
-# 🛒 Billing Item CRUD Application – Python
+#  Billing Item CRUD Application – Python
 
 A simple and efficient **Billing & Inventory Management** project that performs **CRUD operations** (Create, Read, Update, Delete) on store items. This app helps small shops or businesses manage products, update stock, and generate bills easily using pure Python. No fancy frameworks—just straightforward code that gets the job done.
 
