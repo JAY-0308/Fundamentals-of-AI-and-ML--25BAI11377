@@ -1,7 +1,7 @@
 # Fundamentals-of-AI-and-ML
 
 Crop-Disease-Identifier-Using-ImageProcessing
-Course: Fundamentals in AI and ML Student Name: ADARSH KUMAR RAIWAL Registration Number: 25BCY10183 This project is a Python-based console application designed to help farmers and agricultural workers quickly identify common plant leaf diseases by analyzing leaf images. It utilizes fundamental computer vision techniques (OpenCV) and structured algorithms to classify diseases without requiring complex, resource-intensive deep learning models.
+Course: Fundamentals in AI and ML Student Name: Mrityunjay Kumar Registration Number: 25BAI11377 This project is a Python-based console application designed to help farmers and agricultural workers quickly identify common plant leaf diseases by analyzing leaf images. It utilizes fundamental computer vision techniques (OpenCV) and structured algorithms to classify diseases without requiring complex, resource-intensive deep learning models.
 
 ✨ Features and Capabilities Image Analysis: Reads and processes leaf images in common formats (e.g., JPEG, PNG).
 
